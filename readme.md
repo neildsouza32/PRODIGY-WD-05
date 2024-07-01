@@ -40,6 +40,4 @@ This Weather Application is a web-based tool designed to provide users with real
 
 **OpenWeatherMap**: Provides the weather data used in this application.
 
-### Contact Information
 
-For any inquiries or support, please contact sharad at <Sharaddgureh1212@gmail.com>.
